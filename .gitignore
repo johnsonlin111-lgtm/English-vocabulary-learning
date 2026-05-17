@@ -1,0 +1,9 @@
+__pycache__/
+assets/
+build/
+dist/
+tests/
+utils/
+venv/
+views/
+app.log
