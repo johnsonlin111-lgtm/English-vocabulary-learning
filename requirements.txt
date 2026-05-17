@@ -1,0 +1,8 @@
+customtkinter
+Pillow
+gtts
+pygame-ce
+requests
+pandas
+openpyxl
+pyinstaller
